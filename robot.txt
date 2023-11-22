@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /       # Disallow all other paths
-Allow: /index.html
-Allow: /about.html
